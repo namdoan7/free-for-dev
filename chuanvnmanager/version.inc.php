@@ -1,0 +1,1 @@
+<?php if (!defined('ACCESS')) { die('Not acces'); } else { $count = 10788; $version = '1.7.88'; } ?>
